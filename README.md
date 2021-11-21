@@ -2,7 +2,7 @@
 Gesture recognition project using a RNN (GRU) +CNN model, especially using a pre-trained MobileNetV2 model and also 3D-CNN trained with normal + augmented images.
 
 
-Datset Info
+Dataset Info
 -----------
 
 *Dataset Link: https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL*
